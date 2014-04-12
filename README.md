@@ -4,14 +4,14 @@ by [Nicholas C. Zakas](https://github.com/nzakas)
  
 ![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)
 
-ECMAScript 6相比于任何以往的JavaScript核心语言都发生了巨大的改化，这不仅仅是在第6版本增加了更多的对象类型，而且是新的语法和更激动人心的功能。经过多年的研究和讨论，ECMAScript 6将于2014年完成。当然要让所有JavaScript运行环境都支持ECMAScript 6还得花上一段时间，但是了解已经被实现的功能和接下来发布的也很有用。
+ECMAScript 6相比于任何以往的JavaScript核心语言都发生了巨大的改变，这不仅仅是在第6版本中增加了更多的对象，而且是新的语法和更令人激动的功能。在经过了多年的研究和讨论之后，ECMAScript 6将于2014年完工。当然要让所有JavaScript运行环境都支持ECMAScript 6还得花上一段时间，但是了解已经被实现的功能和接下来发布的也非常有用。
 
-本书是一个从ECMAScript 5过渡到6的指导，它并没有指定任何JavaScript运行环境，所以对Web和Node.js开发者同样的有用。
+本书作为ECMAScript 5过渡到6的指导，它并没有指定任何JavaScript运行环境，所以对Web和Node.js开发者是同样的有用。
 
 通过本书你将学到：
 
 * ECMAScript 5之后所有的语言变化
-* 新的类语法
+* 新的类语法如何和更熟悉的JavaScript概念联系在一起
 * 为什么迭代器和生成器很有用
 * 箭头方法与普通的方法有怎样的不同
 * 数据存储新增了sets,maps等选项
@@ -19,13 +19,13 @@ ECMAScript 6相比于任何以往的JavaScript核心语言都发生了巨大的�
 * 为什么人们对异步编程的Promises兴趣盎然
 * 模块会如何改变你平常编写的代码
 
-## 购买复制版
+## 购买电子版
 
 你可以通过[Leanpub](https://leanpub.com/understandinges6)购买电子书。
 
 ## 贡献
 
-本书将会在开放的氛围中编写，它不同那些与开源软件项目，在尝试为本书做出贡献时请格外仔细阅读如下细则
+尽管本书将会在开放的氛围中编写，但它不同于那些开源软件项目，所以在尝试为本书做出贡献时请格外仔细阅读如下细则
 
 ### Leanpub Markdown
 
