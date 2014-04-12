@@ -35,6 +35,44 @@ Leanpub编写文件时使用特殊的Markdown风格，请确保阅读[他们的�
 
 ### Pull Requests
 
+Pull requests 只会在*正确修改了内容*而不是*正确增添了内容*才被接受。如下的是可被接受的pull requests：
+
+* 修复打字排版问题
+* 语法/拼写错误
+* 可代替的描述
+* 阐述更清楚的表达
+
+如下是不可被接受的Pull requests:
+
+* 内容中新的小节
+* 新的章
+
+简单的说，你可以pull requests去更改那些在工程中已经存在的内容而不是增加工程中不存在的内容。
+
+**注意:** 一个被接受的pull request意味着你的名字将会出现在贡献者列表中。受协议条款的界限，一旦你贡献的内容被合并你就不会被当做作者或者拥有者，你的付出会被当做为此的贡献。
+
+### Issues
+
+issues既可以在指出错误也可以在提出建议时使用。使用issues如下：
+
+* 有关项目的提问
+* 指出项目中的问题或错误
+* 对某一节要求提供更多的信息
+* 建议新的话题
+
+
+任一打开着issue都会被跟踪，issue将会在被跟踪过或者未被追踪时关闭。
+
+issue不应该用于以下：
+
+* 询问某一节或章何时完成
+* 任何已经在项目中标记“TODO”（待完成）的东西
+
+这类的issue将会被简单的标记为不合规，也会得不到任何评论而直接被关闭。
+
+Copyright 2014 Nicholas C. Zakas.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).
 
 
 
